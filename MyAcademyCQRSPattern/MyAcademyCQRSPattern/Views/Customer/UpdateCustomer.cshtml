@@ -1,0 +1,21 @@
+﻿@model UpdateCustomerCommand
+@{
+    ViewData["Title"] = "UpdateCustomer";
+}
+
+<h1>Müşteri Güncelle</h1>
+
+<form method="post">
+    <input type="hidden" asp-for="CustomerID" />
+    <label>Ad</label>
+    <input type="text" asp-for="Name" class="form-control" />
+    <br />
+    <label>Soyad</label>
+    <input type="text" asp-for="Surname" class="form-control" />
+    <br />
+    <label>Şehir</label>
+    <input type="text" asp-for="City" class="form-control" />
+    <br />
+    <button class="btn btn-primary">Güncelle</button>
+</form>
+

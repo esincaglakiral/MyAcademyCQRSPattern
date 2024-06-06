@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyCQRSPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A3F58C-3B60-424C-8B23-E59C0CED9CDB}|MyAcademyCQRSPattern\\MyAcademyCQRSPattern.csproj|d:\\softwareproject\\myyazilimprojeleri\\myacademycqrspattern\\myacademycqrspattern\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3A3F58C-3B60-424C-8B23-E59C0CED9CDB}|MyAcademyCQRSPattern\\MyAcademyCQRSPattern.csproj|solutionrelative:myacademycqrspattern\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A3F58C-3B60-424C-8B23-E59C0CED9CDB}|MyAcademyCQRSPattern\\MyAcademyCQRSPattern.csproj|d:\\softwareproject\\myyazilimprojeleri\\myacademycqrspattern\\myacademycqrspattern\\views\\customer\\updatecustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3A3F58C-3B60-424C-8B23-E59C0CED9CDB}|MyAcademyCQRSPattern\\MyAcademyCQRSPattern.csproj|solutionrelative:myacademycqrspattern\\views\\customer\\updatecustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A3F58C-3B60-424C-8B23-E59C0CED9CDB}|MyAcademyCQRSPattern\\MyAcademyCQRSPattern.csproj|d:\\softwareproject\\myyazilimprojeleri\\myacademycqrspattern\\myacademycqrspattern\\views\\customer\\createcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3A3F58C-3B60-424C-8B23-E59C0CED9CDB}|MyAcademyCQRSPattern\\MyAcademyCQRSPattern.csproj|solutionrelative:myacademycqrspattern\\views\\customer\\createcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A3F58C-3B60-424C-8B23-E59C0CED9CDB}|MyAcademyCQRSPattern\\MyAcademyCQRSPattern.csproj|d:\\softwareproject\\myyazilimprojeleri\\myacademycqrspattern\\myacademycqrspattern\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A3F58C-3B60-424C-8B23-E59C0CED9CDB}|MyAcademyCQRSPattern\\MyAcademyCQRSPattern.csproj|solutionrelative:myacademycqrspattern\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A3F58C-3B60-424C-8B23-E59C0CED9CDB}|MyAcademyCQRSPattern\\MyAcademyCQRSPattern.csproj|d:\\softwareproject\\myyazilimprojeleri\\myacademycqrspattern\\myacademycqrspattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A3F58C-3B60-424C-8B23-E59C0CED9CDB}|MyAcademyCQRSPattern\\MyAcademyCQRSPattern.csproj|solutionrelative:myacademycqrspattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A3F58C-3B60-424C-8B23-E59C0CED9CDB}|MyAcademyCQRSPattern\\MyAcademyCQRSPattern.csproj|d:\\softwareproject\\myyazilimprojeleri\\myacademycqrspattern\\myacademycqrspattern\\mapping\\customermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A3F58C-3B60-424C-8B23-E59C0CED9CDB}|MyAcademyCQRSPattern\\MyAcademyCQRSPattern.csproj|solutionrelative:myacademycqrspattern\\mapping\\customermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A3F58C-3B60-424C-8B23-E59C0CED9CDB}|MyAcademyCQRSPattern\\MyAcademyCQRSPattern.csproj|d:\\softwareproject\\myyazilimprojeleri\\myacademycqrspattern\\myacademycqrspattern\\cqrspattern\\handlers\\removecustomercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A3F58C-3B60-424C-8B23-E59C0CED9CDB}|MyAcademyCQRSPattern\\MyAcademyCQRSPattern.csproj|solutionrelative:myacademycqrspattern\\cqrspattern\\handlers\\removecustomercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A3F58C-3B60-424C-8B23-E59C0CED9CDB}|MyAcademyCQRSPattern\\MyAcademyCQRSPattern.csproj|d:\\softwareproject\\myyazilimprojeleri\\myacademycqrspattern\\myacademycqrspattern\\cqrspattern\\handlers\\updatecustomercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A3F58C-3B60-424C-8B23-E59C0CED9CDB}|MyAcademyCQRSPattern\\MyAcademyCQRSPattern.csproj|solutionrelative:myacademycqrspattern\\cqrspattern\\handlers\\updatecustomercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A3F58C-3B60-424C-8B23-E59C0CED9CDB}|MyAcademyCQRSPattern\\MyAcademyCQRSPattern.csproj|d:\\softwareproject\\myyazilimprojeleri\\myacademycqrspattern\\myacademycqrspattern\\cqrspattern\\handlers\\createcustomercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A3F58C-3B60-424C-8B23-E59C0CED9CDB}|MyAcademyCQRSPattern\\MyAcademyCQRSPattern.csproj|solutionrelative:myacademycqrspattern\\cqrspattern\\handlers\\createcustomercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A3F58C-3B60-424C-8B23-E59C0CED9CDB}|MyAcademyCQRSPattern\\MyAcademyCQRSPattern.csproj|d:\\softwareproject\\myyazilimprojeleri\\myacademycqrspattern\\myacademycqrspattern\\cqrspattern\\commands\\removecustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A3F58C-3B60-424C-8B23-E59C0CED9CDB}|MyAcademyCQRSPattern\\MyAcademyCQRSPattern.csproj|solutionrelative:myacademycqrspattern\\cqrspattern\\commands\\removecustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A3F58C-3B60-424C-8B23-E59C0CED9CDB}|MyAcademyCQRSPattern\\MyAcademyCQRSPattern.csproj|d:\\softwareproject\\myyazilimprojeleri\\myacademycqrspattern\\myacademycqrspattern\\cqrspattern\\handlers\\getcustomerbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A3F58C-3B60-424C-8B23-E59C0CED9CDB}|MyAcademyCQRSPattern\\MyAcademyCQRSPattern.csproj|solutionrelative:myacademycqrspattern\\cqrspattern\\handlers\\getcustomerbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A3F58C-3B60-424C-8B23-E59C0CED9CDB}|MyAcademyCQRSPattern\\MyAcademyCQRSPattern.csproj|d:\\softwareproject\\myyazilimprojeleri\\myacademycqrspattern\\myacademycqrspattern\\cqrspattern\\commands\\createcustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A3F58C-3B60-424C-8B23-E59C0CED9CDB}|MyAcademyCQRSPattern\\MyAcademyCQRSPattern.csproj|solutionrelative:myacademycqrspattern\\cqrspattern\\commands\\createcustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A3F58C-3B60-424C-8B23-E59C0CED9CDB}|MyAcademyCQRSPattern\\MyAcademyCQRSPattern.csproj|d:\\softwareproject\\myyazilimprojeleri\\myacademycqrspattern\\myacademycqrspattern\\dataaccess\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A3F58C-3B60-424C-8B23-E59C0CED9CDB}|MyAcademyCQRSPattern\\MyAcademyCQRSPattern.csproj|solutionrelative:myacademycqrspattern\\dataaccess\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A3F58C-3B60-424C-8B23-E59C0CED9CDB}|MyAcademyCQRSPattern\\MyAcademyCQRSPattern.csproj|d:\\softwareproject\\myyazilimprojeleri\\myacademycqrspattern\\myacademycqrspattern\\cqrspattern\\results\\getcustomerbyidqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A3F58C-3B60-424C-8B23-E59C0CED9CDB}|MyAcademyCQRSPattern\\MyAcademyCQRSPattern.csproj|solutionrelative:myacademycqrspattern\\cqrspattern\\results\\getcustomerbyidqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A3F58C-3B60-424C-8B23-E59C0CED9CDB}|MyAcademyCQRSPattern\\MyAcademyCQRSPattern.csproj|d:\\softwareproject\\myyazilimprojeleri\\myacademycqrspattern\\myacademycqrspattern\\cqrspattern\\commands\\updatecustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A3F58C-3B60-424C-8B23-E59C0CED9CDB}|MyAcademyCQRSPattern\\MyAcademyCQRSPattern.csproj|solutionrelative:myacademycqrspattern\\cqrspattern\\commands\\updatecustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A3F58C-3B60-424C-8B23-E59C0CED9CDB}|MyAcademyCQRSPattern\\MyAcademyCQRSPattern.csproj|d:\\softwareproject\\myyazilimprojeleri\\myacademycqrspattern\\myacademycqrspattern\\cqrspattern\\handlers\\getcustomerqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A3F58C-3B60-424C-8B23-E59C0CED9CDB}|MyAcademyCQRSPattern\\MyAcademyCQRSPattern.csproj|solutionrelative:myacademycqrspattern\\cqrspattern\\handlers\\getcustomerqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A3F58C-3B60-424C-8B23-E59C0CED9CDB}|MyAcademyCQRSPattern\\MyAcademyCQRSPattern.csproj|d:\\softwareproject\\myyazilimprojeleri\\myacademycqrspattern\\myacademycqrspattern\\cqrspattern\\queries\\getcustomerbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A3F58C-3B60-424C-8B23-E59C0CED9CDB}|MyAcademyCQRSPattern\\MyAcademyCQRSPattern.csproj|solutionrelative:myacademycqrspattern\\cqrspattern\\queries\\getcustomerbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A3F58C-3B60-424C-8B23-E59C0CED9CDB}|MyAcademyCQRSPattern\\MyAcademyCQRSPattern.csproj|d:\\softwareproject\\myyazilimprojeleri\\myacademycqrspattern\\myacademycqrspattern\\cqrspattern\\results\\getcustomerqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A3F58C-3B60-424C-8B23-E59C0CED9CDB}|MyAcademyCQRSPattern\\MyAcademyCQRSPattern.csproj|solutionrelative:myacademycqrspattern\\cqrspattern\\results\\getcustomerqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A3F58C-3B60-424C-8B23-E59C0CED9CDB}|MyAcademyCQRSPattern\\MyAcademyCQRSPattern.csproj|d:\\softwareproject\\myyazilimprojeleri\\myacademycqrspattern\\myacademycqrspattern\\dataaccess\\context\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A3F58C-3B60-424C-8B23-E59C0CED9CDB}|MyAcademyCQRSPattern\\MyAcademyCQRSPattern.csproj|solutionrelative:myacademycqrspattern\\dataaccess\\context\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateCustomer.cshtml",
+              "DocumentMoniker": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyCQRSPattern\\MyAcademyCQRSPattern\\Views\\Customer\\UpdateCustomer.cshtml",
+              "RelativeDocumentMoniker": "MyAcademyCQRSPattern\\Views\\Customer\\UpdateCustomer.cshtml",
+              "ToolTip": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyCQRSPattern\\MyAcademyCQRSPattern\\Views\\Customer\\UpdateCustomer.cshtml",
+              "RelativeToolTip": "MyAcademyCQRSPattern\\Views\\Customer\\UpdateCustomer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T19:14:37.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyCQRSPattern\\MyAcademyCQRSPattern\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyAcademyCQRSPattern\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyCQRSPattern\\MyAcademyCQRSPattern\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "MyAcademyCQRSPattern\\Views\\Customer\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T19:12:16.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateCustomer.cshtml",
+              "DocumentMoniker": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyCQRSPattern\\MyAcademyCQRSPattern\\Views\\Customer\\CreateCustomer.cshtml",
+              "RelativeDocumentMoniker": "MyAcademyCQRSPattern\\Views\\Customer\\CreateCustomer.cshtml",
+              "ToolTip": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyCQRSPattern\\MyAcademyCQRSPattern\\Views\\Customer\\CreateCustomer.cshtml",
+              "RelativeToolTip": "MyAcademyCQRSPattern\\Views\\Customer\\CreateCustomer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T19:09:20.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyCQRSPattern\\MyAcademyCQRSPattern\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "MyAcademyCQRSPattern\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyCQRSPattern\\MyAcademyCQRSPattern\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "MyAcademyCQRSPattern\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowDYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T18:43:37.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RemoveCustomerCommandHandler.cs",
+              "DocumentMoniker": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyCQRSPattern\\MyAcademyCQRSPattern\\CQRSPattern\\Handlers\\RemoveCustomerCommandHandler.cs",
+              "RelativeDocumentMoniker": "MyAcademyCQRSPattern\\CQRSPattern\\Handlers\\RemoveCustomerCommandHandler.cs",
+              "ToolTip": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyCQRSPattern\\MyAcademyCQRSPattern\\CQRSPattern\\Handlers\\RemoveCustomerCommandHandler.cs",
+              "RelativeToolTip": "MyAcademyCQRSPattern\\CQRSPattern\\Handlers\\RemoveCustomerCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T18:39:33.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateCustomerCommandHandler.cs",
+              "DocumentMoniker": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyCQRSPattern\\MyAcademyCQRSPattern\\CQRSPattern\\Handlers\\UpdateCustomerCommandHandler.cs",
+              "RelativeDocumentMoniker": "MyAcademyCQRSPattern\\CQRSPattern\\Handlers\\UpdateCustomerCommandHandler.cs",
+              "ToolTip": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyCQRSPattern\\MyAcademyCQRSPattern\\CQRSPattern\\Handlers\\UpdateCustomerCommandHandler.cs",
+              "RelativeToolTip": "MyAcademyCQRSPattern\\CQRSPattern\\Handlers\\UpdateCustomerCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T18:35:55.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateCustomerCommandHandler.cs",
+              "DocumentMoniker": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyCQRSPattern\\MyAcademyCQRSPattern\\CQRSPattern\\Handlers\\CreateCustomerCommandHandler.cs",
+              "RelativeDocumentMoniker": "MyAcademyCQRSPattern\\CQRSPattern\\Handlers\\CreateCustomerCommandHandler.cs",
+              "ToolTip": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyCQRSPattern\\MyAcademyCQRSPattern\\CQRSPattern\\Handlers\\CreateCustomerCommandHandler.cs",
+              "RelativeToolTip": "MyAcademyCQRSPattern\\CQRSPattern\\Handlers\\CreateCustomerCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T18:28:07.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RemoveCustomerCommand.cs",
+              "DocumentMoniker": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyCQRSPattern\\MyAcademyCQRSPattern\\CQRSPattern\\Commands\\RemoveCustomerCommand.cs",
+              "RelativeDocumentMoniker": "MyAcademyCQRSPattern\\CQRSPattern\\Commands\\RemoveCustomerCommand.cs",
+              "ToolTip": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyCQRSPattern\\MyAcademyCQRSPattern\\CQRSPattern\\Commands\\RemoveCustomerCommand.cs",
+              "RelativeToolTip": "MyAcademyCQRSPattern\\CQRSPattern\\Commands\\RemoveCustomerCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T18:25:50.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UpdateCustomerCommand.cs",
+              "DocumentMoniker": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyCQRSPattern\\MyAcademyCQRSPattern\\CQRSPattern\\Commands\\UpdateCustomerCommand.cs",
+              "RelativeDocumentMoniker": "MyAcademyCQRSPattern\\CQRSPattern\\Commands\\UpdateCustomerCommand.cs",
+              "ToolTip": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyCQRSPattern\\MyAcademyCQRSPattern\\CQRSPattern\\Commands\\UpdateCustomerCommand.cs",
+              "RelativeToolTip": "MyAcademyCQRSPattern\\CQRSPattern\\Commands\\UpdateCustomerCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T18:25:03.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateCustomerCommand.cs",
+              "DocumentMoniker": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyCQRSPattern\\MyAcademyCQRSPattern\\CQRSPattern\\Commands\\CreateCustomerCommand.cs",
+              "RelativeDocumentMoniker": "MyAcademyCQRSPattern\\CQRSPattern\\Commands\\CreateCustomerCommand.cs",
+              "ToolTip": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyCQRSPattern\\MyAcademyCQRSPattern\\CQRSPattern\\Commands\\CreateCustomerCommand.cs",
+              "RelativeToolTip": "MyAcademyCQRSPattern\\CQRSPattern\\Commands\\CreateCustomerCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T18:23:26.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetCustomerByIdQueryHandler.cs",
+              "DocumentMoniker": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyCQRSPattern\\MyAcademyCQRSPattern\\CQRSPattern\\Handlers\\GetCustomerByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "MyAcademyCQRSPattern\\CQRSPattern\\Handlers\\GetCustomerByIdQueryHandler.cs",
+              "ToolTip": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyCQRSPattern\\MyAcademyCQRSPattern\\CQRSPattern\\Handlers\\GetCustomerByIdQueryHandler.cs",
+              "RelativeToolTip": "MyAcademyCQRSPattern\\CQRSPattern\\Handlers\\GetCustomerByIdQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T18:04:14.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerMapping.cs",
+              "DocumentMoniker": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyCQRSPattern\\MyAcademyCQRSPattern\\Mapping\\CustomerMapping.cs",
+              "RelativeDocumentMoniker": "MyAcademyCQRSPattern\\Mapping\\CustomerMapping.cs",
+              "ToolTip": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyCQRSPattern\\MyAcademyCQRSPattern\\Mapping\\CustomerMapping.cs",
+              "RelativeToolTip": "MyAcademyCQRSPattern\\Mapping\\CustomerMapping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:55:05.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetCustomerQueryHandler.cs",
+              "DocumentMoniker": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyCQRSPattern\\MyAcademyCQRSPattern\\CQRSPattern\\Handlers\\GetCustomerQueryHandler.cs",
+              "RelativeDocumentMoniker": "MyAcademyCQRSPattern\\CQRSPattern\\Handlers\\GetCustomerQueryHandler.cs",
+              "ToolTip": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyCQRSPattern\\MyAcademyCQRSPattern\\CQRSPattern\\Handlers\\GetCustomerQueryHandler.cs",
+              "RelativeToolTip": "MyAcademyCQRSPattern\\CQRSPattern\\Handlers\\GetCustomerQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:47:25.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetCustomerByIdQuery.cs",
+              "DocumentMoniker": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyCQRSPattern\\MyAcademyCQRSPattern\\CQRSPattern\\Queries\\GetCustomerByIdQuery.cs",
+              "RelativeDocumentMoniker": "MyAcademyCQRSPattern\\CQRSPattern\\Queries\\GetCustomerByIdQuery.cs",
+              "ToolTip": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyCQRSPattern\\MyAcademyCQRSPattern\\CQRSPattern\\Queries\\GetCustomerByIdQuery.cs",
+              "RelativeToolTip": "MyAcademyCQRSPattern\\CQRSPattern\\Queries\\GetCustomerByIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:45:24.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetCustomerByIdQueryResult.cs",
+              "DocumentMoniker": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyCQRSPattern\\MyAcademyCQRSPattern\\CQRSPattern\\Results\\GetCustomerByIdQueryResult.cs",
+              "RelativeDocumentMoniker": "MyAcademyCQRSPattern\\CQRSPattern\\Results\\GetCustomerByIdQueryResult.cs",
+              "ToolTip": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyCQRSPattern\\MyAcademyCQRSPattern\\CQRSPattern\\Results\\GetCustomerByIdQueryResult.cs",
+              "RelativeToolTip": "MyAcademyCQRSPattern\\CQRSPattern\\Results\\GetCustomerByIdQueryResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:44:01.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetCustomerQueryResult.cs",
+              "DocumentMoniker": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyCQRSPattern\\MyAcademyCQRSPattern\\CQRSPattern\\Results\\GetCustomerQueryResult.cs",
+              "RelativeDocumentMoniker": "MyAcademyCQRSPattern\\CQRSPattern\\Results\\GetCustomerQueryResult.cs",
+              "ToolTip": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyCQRSPattern\\MyAcademyCQRSPattern\\CQRSPattern\\Results\\GetCustomerQueryResult.cs",
+              "RelativeToolTip": "MyAcademyCQRSPattern\\CQRSPattern\\Results\\GetCustomerQueryResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:42:47.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyCQRSPattern\\MyAcademyCQRSPattern\\Program.cs",
+              "RelativeDocumentMoniker": "MyAcademyCQRSPattern\\Program.cs",
+              "ToolTip": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyCQRSPattern\\MyAcademyCQRSPattern\\Program.cs",
+              "RelativeToolTip": "MyAcademyCQRSPattern\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:41:06.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Context.cs",
+              "DocumentMoniker": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyCQRSPattern\\MyAcademyCQRSPattern\\DataAccess\\Context\\Context.cs",
+              "RelativeDocumentMoniker": "MyAcademyCQRSPattern\\DataAccess\\Context\\Context.cs",
+              "ToolTip": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyCQRSPattern\\MyAcademyCQRSPattern\\DataAccess\\Context\\Context.cs",
+              "RelativeToolTip": "MyAcademyCQRSPattern\\DataAccess\\Context\\Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:25:52.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyCQRSPattern\\MyAcademyCQRSPattern\\DataAccess\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "MyAcademyCQRSPattern\\DataAccess\\Entities\\Customer.cs",
+              "ToolTip": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyCQRSPattern\\MyAcademyCQRSPattern\\DataAccess\\Entities\\Customer.cs",
+              "RelativeToolTip": "MyAcademyCQRSPattern\\DataAccess\\Entities\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:19:58.588Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

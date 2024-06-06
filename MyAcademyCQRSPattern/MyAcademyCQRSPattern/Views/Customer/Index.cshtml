@@ -1,0 +1,31 @@
+﻿@model List<GetCustomerQueryResult>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Müşteriler</h1>
+
+<table class="table table-bordered">
+    <tr>
+        <th>#</th>
+        <th>Ad</th>
+        <th>Soyad</th>
+        <th>Şehir</th>
+        <th>İşlemler</th>
+    </tr>
+    @foreach(var item in Model)
+    {
+        <tr>
+            <th>@item.CustomerID</th>
+            <td>@item.Name</td>
+            <td>@item.Surname</td>
+            <td>@item.City</td>
+            <td>
+                <a href="/Customer/DeleteCustomer/@item.CustomerID" class="btn btn-danger">Sil</a>
+                <a href="/Customer/UpdateCustomer/@item.CustomerID" class="btn btn-info">Güncelle</a>
+            </td>
+        </tr>
+    }
+</table>
+
+<a href="/Customer/CreateCustomer/" class="btn btn-success">Yeni Müşteri Ekle</a>
